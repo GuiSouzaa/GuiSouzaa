@@ -18,9 +18,8 @@
     <img align="center" height="25" width="25" alt="linkedin-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="mailto:guilherme_souzamcd@hotmail.com">
-  <img align="center" height="25" width="25" alt="gmail-icon" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
-</a>
-
+    <img align="center" height="25" width="25" alt="email-icon" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+  </a>
 </div>
 
 ![Snake animation](https://github.com/GuiSouzaa/GuiSouzaa/blob/output/github-contribution-grid-snake.svg)
