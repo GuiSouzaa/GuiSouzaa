@@ -1,6 +1,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSouzaa&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSouzaa&layout=compact&theme=tokyonight&langs_count=6&hide=JavaScript,C,C++,C#,Java,Fortran,Cython,PowerShell,Smarty,Meson,Go,Ruby"/>
 </div>
 <br>
 <div align="center"> 
@@ -10,8 +10,8 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </div>
   <h1 align="center">Redes Sociais</h1>
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-7468211b7">
